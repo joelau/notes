@@ -1,2 +1,4 @@
 # notes
-Notes and teaching material
+
+* Notes and teaching material
+* courses
